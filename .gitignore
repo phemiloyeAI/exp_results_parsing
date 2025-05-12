@@ -6,3 +6,5 @@ FGIRFT
 *.pdf
 *.xlsx
 *.bib
+data
+results_all
